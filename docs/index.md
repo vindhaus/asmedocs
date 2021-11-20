@@ -21,10 +21,6 @@ Current assigned PM:
 <dl>
 	<dt>Name</dt>
 	<dd>Eric Wind</dd>
-	<dt>Email</dt>
-	<dd>eric.wind@getopenwater.com</dd>
-	<dt>Github tag</dt>
-	<dd>erw1988</dd>
 </dl>
 
 <button type="button" name="button" class="btn" script="jtd.setTheme('owdefaultcolor');">Default Mode</button>
