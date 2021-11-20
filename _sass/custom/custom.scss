@@ -1,0 +1,52 @@
+@media (min-width: 66.5rem) 
+{ .side-bar 
+	{ width: calc((100% - 1064px) / 2 + 2px); min-width: 264px; 
+	} 
+}
+
+.site-title {
+	font-size: 15px !important;
+}
+
+.site-footer {
+	display: none;
+}
+
+html, html[data-theme="light"], {
+  --light-text-color: hsl(0, 0%, 35%);
+  --main-background-color: hsl(0, 5%, 95%);
+  --main-text-color: hsl(0, 0%, 0%);
+}
+
+html[data-theme="dark"] {
+  --light-text-color: hsl(0, 0%, 60%);
+  --main-background-color: hsl(0, 0%, 10%);
+  --main-text-color: hsl(0, 10%, 80%);
+}
+
+//// Dark mode ////
+
+html[data-theme="dark"] {
+  $sidebar-color: black;
+  .page {background-color: black;}
+  .side-bar {background-color: black;}
+  .main-content-wrap {background-color: black;}
+  .page-header {background-color: black;}
+  .side-bar a {color: #E4E6EB;}
+  .page {color: #E4E6EB;}
+  h1, h2, h3, h4, h5, h6 {color: #E4E6EB !important;}
+  .navigation-list-link {color: #E4E6EB;}
+  .navigation-list-link:hover {background: #3A3B3C;}
+  .navigation-list-link.active {background: #7253ed !important;}
+  body {background-color: black;}
+  .search-input-wrap {background-color: black;}
+  .search-input {background-color: black;}
+  .highlight {background-color: #18191A;}
+  code {background-color: #18191A;}
+  }
+  
+  @media (prefers-color-scheme: dark) {
+      html {
+        content: "dark";
+      }
+  }
