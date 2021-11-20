@@ -5,7 +5,6 @@
 layout: home
 title: ASME/OpenWater Documentation
 nav_order: 1
-permalink: /
 ---
 
 ## Welcome to the ASME/OpenWater documentation!
