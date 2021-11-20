@@ -23,7 +23,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   Documentation for ASME's customizations on the OpenWater platform
 domain: vindhaus.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://vindhaus.github.io/  # the base hostname and protocol for your site, e.g. http://example.com
-baseurl: /asmedocs/docs/
 
 # Build settings
 remote_theme: pmarsceill/just-the-docs
