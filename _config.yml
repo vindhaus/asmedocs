@@ -25,7 +25,7 @@ domain: vindhaus.github.io       # if you want to force HTTPS, specify the domai
 url: https://vindhaus.github.io/  # the base hostname and protocol for your site, e.g. http://example.com
 
 # Build settings
-remote_theme: pmarsceill/just-the-docs
+remote_theme: pmarsceill/just-the-docs@master
 plugins:
   - jekyll-feed
 color_scheme: owdefaultcolor
