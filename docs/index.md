@@ -3,7 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: ASME/OpenWater Documentation
 ---
 
 ## Welcome to the ASME/OpenWater documentation!
