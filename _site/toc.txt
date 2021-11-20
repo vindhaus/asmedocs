@@ -1,9 +1,0 @@
-- Introduction
-- Base Platform Customizations
-- Extender Customizations
-- Workflow
-- List of Instances
-- Bug Submission
-- Feature Request Submission
-- Pricing List
-- Contacts
