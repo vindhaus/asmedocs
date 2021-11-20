@@ -28,7 +28,7 @@ baseurl: /_site/      # place folder name if the site is served in a subfolder
 
 
 # Build settings
-theme: just-the-docs
+remote-theme: just-the-docs
 plugins:
   - jekyll-feed
 color_scheme: owdefaultcolor
