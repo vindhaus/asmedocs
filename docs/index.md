@@ -22,6 +22,3 @@ Current assigned PM:
 	<dt>Name</dt>
 	<dd>Eric Wind</dd>
 </dl>
-
-<button type="button" name="button" class="btn" script="jtd.setTheme('owdefaultcolor');">Default Mode</button>
-<button type="button" name="button" class="btn" script="jtd.setTheme('dark');">Dark Mode</button>
