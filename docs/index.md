@@ -10,7 +10,7 @@ permalink: /
 
 ## Welcome to the ASME/OpenWater documentation!
 
-The American Society of Mechanical Engineers (ASME) is a large client for OpenWater (OW). The breadth of their requirements made it necessary to do a slew of customizations to the OW platform so they could integrate their operations successfully with our product. This documentation will lay out all of the custom modules we have created for them.
+ASME is a large client for OpenWater (OW). The breadth of their requirements made it necessary to do a slew of customizations to the OW platform so they could integrate their operations successfully with our product. This documentation will lay out all of the custom modules we have created for them.
 
 Typically, there is one project manager assigned to ASME at a time. They are the primary contact and coordinator for the ASME project; gathering requirements, drawing up technical specifications and shepherding the items to completion. Aside from these tasks, they will also submit bug reports, mediate between development and the client, and act as general support.
 
