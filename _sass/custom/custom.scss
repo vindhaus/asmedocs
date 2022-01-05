@@ -12,6 +12,10 @@
 	display: none;
 }
 
+hr { 
+	background-color: #131516;
+}
+
 html, html[data-theme="light"], {
   --light-text-color: hsl(0, 0%, 35%);
   --main-background-color: hsl(0, 5%, 95%);
