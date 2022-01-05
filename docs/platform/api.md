@@ -22,4 +22,6 @@ ASME's Extender API is not publicly exposed. Any issues arising from this API wi
 
 ---
 
+**Custom Variables**
+
 TODO: Find out if there's a list of custom variables that are easily accessible through the platform.
