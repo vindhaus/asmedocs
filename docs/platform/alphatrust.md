@@ -6,7 +6,7 @@ parent: Platform Customizations
 
 **Description**
 
-AlphaTrust is a third-party integration/vendor used by ASME to manage copyright agreements. It primarily exists in Extender.
+AlphaTrust is a third-party integration/vendor used by ASME to manage copyright agreements. The integration primarily exists in Extender.
 
 ---
 
