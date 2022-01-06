@@ -12,7 +12,7 @@ Accessing ASME's information through the API is the same as other clients. You w
 - Client Key: {update when moved to an internal repo}
 - API Key: {update when moved to an internal repo}
 
-OpenWater API documentation: https://api.secure-platform.com/swagger/index.html
+OpenWater API documentation: [https://api.secure-platform.com/swagger/index.html](https://api.secure-platform.com/swagger/index.html)
 
 ---
 
